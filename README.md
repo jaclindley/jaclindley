@@ -3,8 +3,8 @@
 - Linux Ops Sysadmin turn IT Manager. Now looking for a DevOps Engineer/Project Management role.
 - I’m currently taking the IBM DevOps and Software Development certification on Coursera.
 - 
-- @jaclindley on twitter
-- @jaclindley on instagram
+- Actively looking for new and exciting remote job oppurtunities utilizing cloud & CI/CD technologies.
+-
 
 <!---
 jaclindley/jaclindley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
